@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/react-dynamic-form-demo/static/css/main.7e03831d.css",
+    "main.js": "/react-dynamic-form-demo/static/js/main.6917819c.js",
+    "static/js/787.b0823f7d.chunk.js": "/react-dynamic-form-demo/static/js/787.b0823f7d.chunk.js",
+    "static/media/gigachad-minecraft-meme.gif": "/react-dynamic-form-demo/static/media/gigachad-minecraft-meme.3d651002e4a6ef9ee1eb.gif",
+    "static/media/coolvetica rg.otf": "/react-dynamic-form-demo/static/media/coolvetica rg.3d81d0e1fdbd5f69b232.otf",
+    "static/media/gigachad-steve.jpg": "/react-dynamic-form-demo/static/media/gigachad-steve.2fb393691660a33f337a.jpg",
+    "index.html": "/react-dynamic-form-demo/index.html",
+    "main.7e03831d.css.map": "/react-dynamic-form-demo/static/css/main.7e03831d.css.map",
+    "main.6917819c.js.map": "/react-dynamic-form-demo/static/js/main.6917819c.js.map",
+    "787.b0823f7d.chunk.js.map": "/react-dynamic-form-demo/static/js/787.b0823f7d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7e03831d.css",
+    "static/js/main.6917819c.js"
+  ]
+}
