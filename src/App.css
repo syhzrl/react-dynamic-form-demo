@@ -1,0 +1,12 @@
+.appContainer {
+    background-color: #DEDEDE;
+    height: 100vh;
+    display: flex;
+}
+
+.formContainer {
+    width: 80%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

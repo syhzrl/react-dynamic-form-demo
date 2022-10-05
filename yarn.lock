@@ -7952,10 +7952,10 @@
     "picocolors" "^1.0.0"
     "stable" "^0.1.8"
 
-"syhzrl-react-dynamic-form@^0.0.8":
-  "integrity" "sha512-KdmfaiGDsxU0w/FmxlZPrsQukrp5oq2cH/zPg9vAuFseVfYr2dXQAT48wPEpIT5mB0Hi5bFxgWRnDRVxqVwxMQ=="
-  "resolved" "https://registry.npmjs.org/syhzrl-react-dynamic-form/-/syhzrl-react-dynamic-form-0.0.8.tgz"
-  "version" "0.0.8"
+"syhzrl-react-dynamic-form@^0.0.9":
+  "integrity" "sha512-z3APcObx46r2/V1S101o0pzd/cq2tFf7Jzv6pS9DqzdDE8P+OcH94yGsUrK3qGtgsyzSqolQvplAtJEAJyCPGQ=="
+  "resolved" "https://registry.npmjs.org/syhzrl-react-dynamic-form/-/syhzrl-react-dynamic-form-0.0.9.tgz"
+  "version" "0.0.9"
 
 "symbol-tree@^3.2.4":
   "integrity" "sha512-9QNk5KwDF+Bvz+PyObkmSYjI5ksVUYtjW7AU22r2NKcfLJcXp96hkDWU3+XndOsUb+AQ9QhfzfCT2O+CNWT5Tw=="
